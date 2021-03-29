@@ -15,6 +15,8 @@ First and The Only Hosted Project: http://www.ajayplastics.co.in/  (html,css,boo
 *If You Visit The Website Do Check Out The ChatBot in Contact Section*<br/>
 
 
+<b>All Repositories Are Private.</b>
+
 Note: Currently Working on These 3 Simultaneously If You are Interested Drop A Mail at aekam93@gmail.com with your github username and I will Give You access to repositories.
       
       Active:
