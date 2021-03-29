@@ -1,4 +1,4 @@
-<b>All Repositories Are Private.</b> <br/>
+<b>All Repositories Are Private.Email at aekam93@gmail.com if you would like access</b> <br/>
 
 Jasmeet Singh Dhillon <br/>
 aekam93@gmail.com <br/>
