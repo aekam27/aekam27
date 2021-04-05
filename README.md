@@ -1,6 +1,6 @@
-<b>1 Repository Public</b><br/>
+<b>.   1    Repository Public</b><br/>
 
-<b>8 Repositories Are Private.Email at aekam93@gmail.com if you would like access</b> <br/>
+<b>.   8    Repositories Are Private.Email at aekam93@gmail.com if you would like access</b> <br/>
 
 Jasmeet Singh Dhillon <br/>
 aekam93@gmail.com <br/>
