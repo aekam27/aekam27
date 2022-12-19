@@ -11,7 +11,7 @@ HakerRanks Profile: https://www.hackerrank.com/aekam93<br/>
 
 Likes to Write Short Stories, nano-tails and Poetry.<br/>
 
-First and The Only Hosted Project: http://www.ajayplastics.co.in/  (html,css,bootstrap,golang,python(for chatbot))->heroku<br/>
+<br/>
 *I Suck At Designing Still Love To Design Web Pages*<br/>
 *If You Visit The Website Do Check Out The ChatBot in Contact Section*<br/>
  
