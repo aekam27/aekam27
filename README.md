@@ -13,5 +13,4 @@ Likes to Write Short Stories, nano-tails and Poetry.<br/>
 
 <br/>
 *I Suck At Designing Still Love To Design Web Pages*<br/>
-*If You Visit The Website Do Check Out The ChatBot in Contact Section*<br/>
  
