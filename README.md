@@ -1,16 +1,1 @@
-<b>ALL REPOS ARE PRIVATE</b><br/>
-Jasmeet Singh Dhillon <br/>
-aekam93@gmail.com <br/>
-24 <br/>
-Introvert<br/>
-*I Still Sometimes Google How To Add New Key,Value Pair in a Python Dictionary / How To Define Struct in Golang*<br/>
-
-CodeWars Profile: https://www.codewars.com/users/AeKam<br/>
-HakerRanks Profile: https://www.hackerrank.com/aekam93<br/>
-*Will add other profiles as soon as i remember their names*<br/>
-
-Likes to Write Short Stories, nano-tails and Poetry.<br/>
-
-<br/>
-*I Suck At Designing Still Love To Design Web Pages*<br/>
- 
+Developing again.
